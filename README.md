@@ -1,2 +1,2 @@
 # JavaRepository
-Java projects to learn and save for later consult
+Small projects in Java
